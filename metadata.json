@@ -1,0 +1,8 @@
+{
+  "name": "صحة العائلة - Family Health Platform",
+  "description": "A comprehensive health-tech platform for families, focusing on maternal and child health. It offers doctor consultations, personalized content, health tracking, and an AI-powered chatbot for support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
